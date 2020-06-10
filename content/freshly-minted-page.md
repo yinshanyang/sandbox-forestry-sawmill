@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Freshly Minted Page"
 [[blocks]]
 background_image = ""
